@@ -250,9 +250,4 @@ echo "  DB_USERNAME=${DB_USER}"
 echo "  DB_PASSWORD=${SENHA_DB}"
 echo
 echo "Laravel pronto para deploy 🚀"lit@appcotaagora:~$ ls
-site
-blit@appcotaagora:~$ composer
-Command 'composer' not found, but can be installed with:
-sudo apt install composer
-blit@appcotaagora:~$ 
 
